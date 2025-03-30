@@ -11,9 +11,7 @@ cli application for calculator using python
 
 3. *Code Structure*
    - *Main Functionality*:
-     - The main() function processes user input, performs calculations based on the operation provided, and stores results in the history list.
-   - *Global History List*:
-     - A global variable history is used to store past calculations.
+     - The main() function processes user input, performs calculations based on the operation provided.
    - *Error Handling*:
      - Invalid arguments raise an exception with helpful error messages.
      - Division/modulus by zero is handled explicitly to avoid runtime errors.
